@@ -33,10 +33,10 @@
 <p><a href="https://www.buymeacoffee.com/abhirambsn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhirambsn" /></a></p><br><br><br>
 
 ## Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhirambsn&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhirambsn" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhirambsn&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhirambsn" /></p><br><br>
 
 ## Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhirambsn&show_icons=true&locale=en&theme=dark" alt="abhirambsn" /></p><br>
 
 ## Github Streaks
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhirambsn&theme=dark" alt="abhirambsn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhirambsn&theme=dark" alt="abhirambsn" /></p><br>
