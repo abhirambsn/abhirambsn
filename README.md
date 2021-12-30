@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhiram aka Elflord</h1>
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Cybersecurity+Enthusiast;Programmer;Student&width=500&height=50"></a></center>
+<a style="align:center;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Cybersecurity+Enthusiast;Programmer;Student&width=500&height=50"></a>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhirambsn" alt="abhirambsn" /></a> </p>
