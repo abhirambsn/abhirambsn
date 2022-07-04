@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abhirambsn@gmail.com**
 
-- ⚡ Fun fact **I think I am as cool as ice**
+- ⚡ My Belief: **In a World full of problems, Be the Solution**
 
 ## Connect With Me
 
