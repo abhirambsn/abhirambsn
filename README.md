@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: [![Typing SVG](https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&size=30&pause=1000&color=40D9C8&center=true&width=435&lines=Penetration+Tester;Blockchain+Developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)<br>
 🔭 I'm currently Studying at **Jaypee Institute of Information Technology.**<br>
 👯 I'm looking to collaborate on **Interesting Cybersecurity and Blockchain Projects**.<br>
 📧 Contact me at [abhirambsn[at]gmail.com](mailto:abhirambsn@gmail.com)<br>
@@ -6,9 +6,6 @@
 🌱 You can ask me about Programming, Cybersecurity and World History (xD)<br>
 ⚡ *"Yoda was almost a monkey."* - A True Star Wars Fan<br>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&size=30&pause=1000&color=40D9C8&center=true&width=435&lines=Penetration+Tester;Blockchain+Developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
-<br>
 
 
 ## 🌐 Socials:
