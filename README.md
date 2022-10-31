@@ -1,6 +1,8 @@
 <center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&size=30&pause=1000&color=40D9C8&center=true&vCenter=true&width=435&lines=Penetration+Tester;Blockchain+Developer;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
-</center>
+</center><br>
+
+
 # 💫 About Me:
 🔭 I'm currently Studying at **Jaypee Institute of Information Technology.**<br>
 👯 I'm looking to collaborate on **Interesting Cybersecurity and Blockchain Projects**.<br>
