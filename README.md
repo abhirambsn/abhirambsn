@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently Studying at Jaypee Institute of Information Technology.<br>👯 I'm looking to collaborate on interesting Cybersecurity and Blockchain Projects.<br>🤝 I'm currently brushing up my Pentesting Skills<br>🌱 You can ask me about Programming, Cybersecurity and World History (xD)<br>⚡ "Yoda was almost a monkey."
+🔭 I'm currently Studying at **Jaypee Institute of Information Technology.**<br>
+👯 I'm looking to collaborate on **Interesting Cybersecurity and Blockchain Projects**.<br>
+📧 Contact me at [abhirambsn[at]gmail.com](mailto:abhirambsn@gmail.com)
+🤝 I'm currently brushing up my Pentesting Skills<br>
+🌱 You can ask me about Programming, Cybersecurity and World History (xD)<br>
+⚡ *"Yoda was almost a monkey."* - A True Star Wars Fan
 
 
 ## 🌐 Socials:
@@ -14,9 +19,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhirambsn&icon=0&color=0)](https://visitcount.itsvg.in)
