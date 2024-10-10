@@ -1,8 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently Studying at **Jaypee Institute of Information Technology.**<br>
-👯 I'm looking to collaborate on **Interesting Cybersecurity Projects**.<br>
+🔭 I'm currently Studying at **Jaypee Institute of Information Technology.** and interning at **SAP Labs India**<br>
 📧 Contact me at [abhirambsn[at]gmail.com](mailto:abhirambsn@gmail.com)<br>
-🤝 I'm currently brushing up my Pentesting Skills<br>
+🤝 I'm currently brushing up my Pentesting and Full Stack Development Skills<br>
 🌱 You can ask me about Programming, Cybersecurity and World History (xD)<br>
 ⚡ *"Yoda was almost a monkey."* - A True Star Wars Fan<br>
 
